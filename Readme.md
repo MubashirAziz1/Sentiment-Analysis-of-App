@@ -1,0 +1,2 @@
+## Sentiment Analysis of App from Google PlayStore
+In this project, I developed a sentiment analysis tool to evaluate app reviews from the Google Play Store. Leveraging Hugging Face's RoBERTa model, the tool efficiently classifies reviews into positive, negative, and neutral sentiments. I automated the review extraction process to streamline data collection, and I built an intuitive interface with Gradio, enabling effortless interaction and visualization of the sentiment analysis results for all users.
